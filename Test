@@ -1,9 +1,0 @@
-# Discord
-DISCORD_TOKEN=MTUwODI2MTM3MzU4MTMyODQ5NQ.GfVqtI.FldKpGRnJbhggRfUqtgBNgfvMrISHo4uoz-v-c
-CLIENT_ID=1508261373581328495
-# Optionnel : pour déployer les commandes sur un seul serveur (instantané) au lieu de global
-GUILD_ID=1486585673015361648
-
-# APIs OSINT
-OATHNET_API_KEY=356e2ddbe1cd2bce59e30a051dc4a8ff9b6743b116af063374034cb2685a80fd
-BREACHHUB_API_KEY=uduSSJgRUXK5afSCfMXAtektVgVG
