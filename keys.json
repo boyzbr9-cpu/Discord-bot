@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "value": "SHX-8560DBFBF3838C62",
+      "note": "",
+      "uses": 1,
+      "remaining": 0,
+      "expiresAt": 0,
+      "createdBy": "1502137230146142358",
+      "createdAt": 1779715751823,
+      "redeemedBy": [
+        {
+          "userId": "1502137230146142358",
+          "at": 1779715759412
+        }
+      ]
+    }
+  ]
+}
